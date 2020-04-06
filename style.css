@@ -24,7 +24,7 @@ html, body {
 }
 
 .josh-image img {
-    height: 150px;
+    height: 500px;
     width: auto;
     animation: rock 1.25s infinite linear;
     user-select: none;
@@ -39,7 +39,7 @@ html, body {
 .counter {
     display: flex;
     flex-direction: column;
-    font-size: 25px;
+    font-size: 75px;
     font-weight: bolder;
     margin-left: 5px;
     text-align: center;
@@ -54,7 +54,7 @@ html, body {
 }
 
 .counter-icon {
-    font-size: 35px;
+    font-size: 115px;
     user-select: none;
 }
 
